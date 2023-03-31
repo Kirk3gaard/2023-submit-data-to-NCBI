@@ -32,3 +32,5 @@
   - Detach from the screen session
   - Periodically check the upload progress
   - Select the data from the preload area
+  - Press continue
+- Press finish
